@@ -1,4 +1,4 @@
-# music-organaizer
+# music-organizer
 MOre than music orginizer
 
 SIMPLE IN USE
