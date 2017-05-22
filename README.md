@@ -12,9 +12,10 @@ MOre than Music Organizer МореМьюзік mo.ua, more-music.ua
 Загальна інформація
 
 Музикальний сервіс для швидкго пошуку музики, формування плей-листів, кешування музики, доступне завантаження власних треків?
-Інтеграція з соціалками?
+Інтеграція з соціалками
 використання існуючих сервісів ?
-Андроід і десктоп платформи ?
+Андроід і десктоп платформи 
+Dima will make a FrontEnd project with simple interface.
 
 
 От:Anton Solyanik 
@@ -28,7 +29,7 @@ MOre than Music Organizer МореМьюзік mo.ua, more-music.ua
 Spring Boot(Embedded tomcat)
 PostgreSQL
 OAuth2.0
-REST
+REST think about NoSql
 
 
 
