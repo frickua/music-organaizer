@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mo-backend.iml" filepath="$PROJECT_DIR$/.idea/modules/mo-backend.iml" group="mo-backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mo-backend/mo-backend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mo-backend/mo-backend_main.iml" group="mo-backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mo-backend/mo-backend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mo-backend/mo-backend_test.iml" group="mo-backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mo-root.iml" filepath="$PROJECT_DIR$/.idea/modules/mo-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mo-root_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mo-root_main.iml" group="mo-root" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mo-root_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mo-root_test.iml" group="mo-root" />
+    </modules>
+  </component>
+</project>
