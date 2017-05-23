@@ -38,6 +38,8 @@ jar {
     dependencies {
         compile('org.springframework.boot:spring-boot-starter-thymeleaf')
         compile('org.springframework.boot:spring-boot-starter-web')
+        compile('org.jsondoc:spring-boot-starter-jsondoc:1.2.17')
+        compile('org.jsondoc:jsondoc-ui-webjar:1.2.17')
         testCompile('org.springframework.boot:spring-boot-starter-test')
     }
 }

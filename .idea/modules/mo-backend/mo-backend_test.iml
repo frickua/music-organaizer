@@ -12,6 +12,8 @@
     <orderEntry type="module" module-name="mo-backend_main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-thymeleaf:2.0.0.M1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.0.0.M1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jsondoc:spring-boot-starter-jsondoc:1.2.17" level="project" />
+    <orderEntry type="library" name="Gradle: org.jsondoc:jsondoc-ui-webjar:1.2.17" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-test:2.0.0.M1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:2.0.0.M1" level="project" />
     <orderEntry type="library" name="Gradle: org.thymeleaf:thymeleaf-spring5:3.0.6.M4" level="project" />
@@ -20,6 +22,7 @@
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.0.pr3" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-web:5.0.0.RC1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:5.0.0.RC1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jsondoc:jsondoc-springmvc:1.2.17" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-test:2.0.0.M1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-test-autoconfigure:2.0.0.M1" level="project" />
     <orderEntry type="library" name="Gradle: com.jayway.jsonpath:json-path:2.2.0" level="project" />
@@ -49,6 +52,7 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-beans:5.0.0.RC1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-context:5.0.0.RC1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-expression:5.0.0.RC1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jsondoc:jsondoc-core:1.2.17" level="project" />
     <orderEntry type="library" name="Gradle: net.minidev:json-smart:2.2.1" level="project" />
     <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy:1.6.14" level="project" />
     <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy-agent:1.6.11" level="project" />
@@ -60,8 +64,12 @@
     <orderEntry type="library" name="Gradle: org.slf4j:log4j-over-slf4j:1.7.25" level="project" />
     <orderEntry type="library" name="Gradle: org.attoparser:attoparser:2.0.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.unbescape:unbescape:1.1.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.reflections:reflections:0.9.10" level="project" />
     <orderEntry type="library" name="Gradle: net.minidev:accessors-smart:1.1" level="project" />
     <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:18.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.javassist:javassist:3.21.0-GA" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:annotations:2.0.1" level="project" />
     <orderEntry type="library" name="Gradle: org.ow2.asm:asm:5.0.3" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="mo-backend_main" />

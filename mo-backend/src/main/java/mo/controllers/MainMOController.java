@@ -11,8 +11,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class MainMOController {
     @RequestMapping(value = "/", method = RequestMethod.GET, produces = "text/html")
-    @ResponseBody
     public String getHelloMessage() {
-        return "<html><H1>Hello!:)</H1><H3>I am Your Music Organaizer.</H3></html>";
+        return "redirect:/jsondoc-ui.html?url=jsondoc";
     }
 }
