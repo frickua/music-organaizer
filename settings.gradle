@@ -1,3 +1,4 @@
+include ':mo-android'
 rootProject.name = 'mo-root'
 include 'mo-backend'
 
